@@ -1,6 +1,6 @@
 First portfolio made for a class project.
 
 
-- To DO List
+# To DO List
 
-Work in the responsive
+- Work in the responsive
